@@ -3,4 +3,7 @@ if Dept=="IT":
  print("Department is " + Dept)
  print("done master branch change")
 else:
- print("Department is Non-IT")
+ if Dept=="HR"
+	print("Department is " + Dept)
+ 
+ print("Department is Non-IT,HR")
