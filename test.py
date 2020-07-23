@@ -5,4 +5,4 @@ else:
  if Dept=="HR"
 	print("Department is " + Dept)
  
- print("Department is Non-IT")
+ print("Department is Non-IT,HR")
