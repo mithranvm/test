@@ -1,5 +1,5 @@
 Dept="IT"
-if Dept=="IT" or Dept=="Finance":
+if Dept=="IT" or Dept=="Accounting":
  print("Department is " + Dept)
  print("done master branch change")
  print("git head message")
